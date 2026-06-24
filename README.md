@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Kartikey027/My-LeetCode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kartikey027/My-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Kartikey027/My-LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kartikey027/My-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Kartikey027/My-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Kartikey027/My-LeetCode/tree/master/0496-next-greater-element-i) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kartikey027/My-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Kartikey027/My-LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Kartikey027/My-LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kartikey027/My-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Kartikey027/My-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kartikey027/My-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Dynamic Programming
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Kartikey027/My-LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Kartikey027/My-LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Kartikey027/My-LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kartikey027/My-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Kartikey027/My-LeetCode/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Kartikey027/My-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Kartikey027/My-LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Kartikey027/My-LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kartikey027/My-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Stack
 |  |
 | ------- |
@@ -101,4 +105,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Kartikey027/My-LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kartikey027/My-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
