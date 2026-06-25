@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Kartikey027/My-LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Kartikey027/My-LeetCode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kartikey027/My-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Kartikey027/My-LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Kartikey027/My-LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Kartikey027/My-LeetCode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kartikey027/My-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Kartikey027/My-LeetCode/tree/master/0242-valid-anagram) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Kartikey027/My-LeetCode/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Kartikey027/My-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kartikey027/My-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
