@@ -8,10 +8,6 @@ class MyStack {
     }
     
     public void push(int x) {
-        if(q1.isEmpty()){
-            q1.add(x);
-        }
-        else{
             q1.add(x);
             int a=q1.size()-1;
             for(int i=0;i<a;i++){
@@ -19,8 +15,8 @@ class MyStack {
             }
             while(!q2.isEmpty()){
                 q1.add(q2.poll());
+            
             }
-        }
     }
     
     public int pop() {
