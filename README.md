@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Kartikey027/My-LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Kartikey027/My-LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Kartikey027/My-LeetCode/tree/master/0290-word-pattern) |
+| [0412-fizz-buzz](https://github.com/Kartikey027/My-LeetCode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Kartikey027/My-LeetCode/tree/master/0520-detect-capital) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Kartikey027/My-LeetCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Kartikey027/My-LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Kartikey027/My-LeetCode/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/Kartikey027/My-LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0412-fizz-buzz](https://github.com/Kartikey027/My-LeetCode/tree/master/0412-fizz-buzz) |
 ## String Matching
 |  |
 | ------- |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kartikey027/My-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Kartikey027/My-LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
