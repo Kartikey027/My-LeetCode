@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Kartikey027/My-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Kartikey027/My-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/Kartikey027/My-LeetCode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Kartikey027/My-LeetCode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kartikey027/My-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1288-remove-covered-intervals](https://github.com/Kartikey027/My-LeetCode/tree/master/1288-remove-covered-intervals) |
 ## Binary Search
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Kartikey027/My-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Kartikey027/My-LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0733-flood-fill](https://github.com/Kartikey027/My-LeetCode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Kartikey027/My-LeetCode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kartikey027/My-LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kartikey027/My-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/Kartikey027/My-LeetCode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Kartikey027/My-LeetCode/tree/master/0994-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
