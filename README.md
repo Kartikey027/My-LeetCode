@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kartikey027/My-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Kartikey027/My-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Kartikey027/My-LeetCode/tree/master/0496-next-greater-element-i) |
+| [0630-course-schedule-iii](https://github.com/Kartikey027/My-LeetCode/tree/master/0630-course-schedule-iii) |
 | [0733-flood-fill](https://github.com/Kartikey027/My-LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Kartikey027/My-LeetCode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kartikey027/My-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Kartikey027/My-LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0630-course-schedule-iii](https://github.com/Kartikey027/My-LeetCode/tree/master/0630-course-schedule-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Kartikey027/My-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kartikey027/My-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kartikey027/My-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0630-course-schedule-iii](https://github.com/Kartikey027/My-LeetCode/tree/master/0630-course-schedule-iii) |
 | [1288-remove-covered-intervals](https://github.com/Kartikey027/My-LeetCode/tree/master/1288-remove-covered-intervals) |
 ## Stack
 |  |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Kartikey027/My-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Kartikey027/My-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kartikey027/My-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0630-course-schedule-iii](https://github.com/Kartikey027/My-LeetCode/tree/master/0630-course-schedule-iii) |
 ## Quickselect
 |  |
 | ------- |
