@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Kartikey027/My-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Kartikey027/My-LeetCode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Kartikey027/My-LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Kartikey027/My-LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -216,11 +217,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Kartikey027/My-LeetCode/tree/master/0191-number-of-1-bits) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Kartikey027/My-LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Kartikey027/My-LeetCode/tree/master/1291-sequential-digits) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Kartikey027/My-LeetCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Kartikey027/My-LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Bucket Sort
 |  |
 | ------- |
