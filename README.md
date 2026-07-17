@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Kartikey027/My-LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kartikey027/My-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Kartikey027/My-LeetCode/tree/master/0049-group-anagrams) |
+| [0208-implement-trie-prefix-tree](https://github.com/Kartikey027/My-LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Kartikey027/My-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kartikey027/My-LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Kartikey027/My-LeetCode/tree/master/0290-word-pattern) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kartikey027/My-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Kartikey027/My-LeetCode/tree/master/0049-group-anagrams) |
 | [0171-excel-sheet-column-number](https://github.com/Kartikey027/My-LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/Kartikey027/My-LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Kartikey027/My-LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Kartikey027/My-LeetCode/tree/master/0290-word-pattern) |
 | [0412-fizz-buzz](https://github.com/Kartikey027/My-LeetCode/tree/master/0412-fizz-buzz) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Kartikey027/My-LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/Kartikey027/My-LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Kartikey027/My-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
@@ -278,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Kartikey027/My-LeetCode/tree/master/0239-sliding-window-maximum) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Kartikey027/My-LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
