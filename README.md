@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Kartikey027/My-LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Kartikey027/My-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Kartikey027/My-LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Kartikey027/My-LeetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Kartikey027/My-LeetCode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Kartikey027/My-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Kartikey027/My-LeetCode/tree/master/0198-house-robber) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Kartikey027/My-LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kartikey027/My-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Kartikey027/My-LeetCode/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/Kartikey027/My-LeetCode/tree/master/0072-edit-distance) |
 | [0171-excel-sheet-column-number](https://github.com/Kartikey027/My-LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Kartikey027/My-LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Kartikey027/My-LeetCode/tree/master/0242-valid-anagram) |
