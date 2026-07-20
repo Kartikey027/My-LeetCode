@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Kartikey027/My-LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Kartikey027/My-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Kartikey027/My-LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Kartikey027/My-LeetCode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Kartikey027/My-LeetCode/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/Kartikey027/My-LeetCode/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/Kartikey027/My-LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kartikey027/My-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Kartikey027/My-LeetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Kartikey027/My-LeetCode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Kartikey027/My-LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Kartikey027/My-LeetCode/tree/master/0091-decode-ways) |
 | [0171-excel-sheet-column-number](https://github.com/Kartikey027/My-LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Kartikey027/My-LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Kartikey027/My-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Kartikey027/My-LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Kartikey027/My-LeetCode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kartikey027/My-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kartikey027/My-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/Kartikey027/My-LeetCode/tree/master/0733-flood-fill) |
@@ -289,9 +292,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kartikey027/My-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Kartikey027/My-LeetCode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Kartikey027/My-LeetCode/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Kartikey027/My-LeetCode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Kartikey027/My-LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kartikey027/My-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kartikey027/My-LeetCode/tree/master/0110-balanced-binary-tree) |
