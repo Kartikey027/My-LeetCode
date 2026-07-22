@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Kartikey027/My-LeetCode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kartikey027/My-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1288-remove-covered-intervals](https://github.com/Kartikey027/My-LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1383-maximum-performance-of-a-team](https://github.com/Kartikey027/My-LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [2542-maximum-subsequence-score](https://github.com/Kartikey027/My-LeetCode/tree/master/2542-maximum-subsequence-score) |
 ## Binary Search
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Kartikey027/My-LeetCode/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/Kartikey027/My-LeetCode/tree/master/0630-course-schedule-iii) |
 | [0860-lemonade-change](https://github.com/Kartikey027/My-LeetCode/tree/master/0860-lemonade-change) |
+| [1383-maximum-performance-of-a-team](https://github.com/Kartikey027/My-LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [2542-maximum-subsequence-score](https://github.com/Kartikey027/My-LeetCode/tree/master/2542-maximum-subsequence-score) |
 ## Prefix Sum
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Kartikey027/My-LeetCode/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/Kartikey027/My-LeetCode/tree/master/0630-course-schedule-iii) |
 | [1288-remove-covered-intervals](https://github.com/Kartikey027/My-LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1383-maximum-performance-of-a-team](https://github.com/Kartikey027/My-LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [2542-maximum-subsequence-score](https://github.com/Kartikey027/My-LeetCode/tree/master/2542-maximum-subsequence-score) |
 ## Stack
 |  |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kartikey027/My-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Kartikey027/My-LeetCode/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/Kartikey027/My-LeetCode/tree/master/0630-course-schedule-iii) |
+| [1383-maximum-performance-of-a-team](https://github.com/Kartikey027/My-LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [2542-maximum-subsequence-score](https://github.com/Kartikey027/My-LeetCode/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
 |  |
