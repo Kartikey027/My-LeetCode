@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Kartikey027/My-LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Kartikey027/My-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Kartikey027/My-LeetCode/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/Kartikey027/My-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kartikey027/My-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Kartikey027/My-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Kartikey027/My-LeetCode/tree/master/0079-word-search) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Kartikey027/My-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Kartikey027/My-LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Kartikey027/My-LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Kartikey027/My-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kartikey027/My-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Kartikey027/My-LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Kartikey027/My-LeetCode/tree/master/0072-edit-distance) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Kartikey027/My-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kartikey027/My-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Kartikey027/My-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Kartikey027/My-LeetCode/tree/master/0079-word-search) |
