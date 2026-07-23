@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Kartikey027/My-LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Kartikey027/My-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Kartikey027/My-LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Kartikey027/My-LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Kartikey027/My-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Kartikey027/My-LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Kartikey027/My-LeetCode/tree/master/0072-edit-distance) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Kartikey027/My-LeetCode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Kartikey027/My-LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kartikey027/My-LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Kartikey027/My-LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/Kartikey027/My-LeetCode/tree/master/0412-fizz-buzz) |
@@ -354,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Kartikey027/My-LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Kartikey027/My-LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
