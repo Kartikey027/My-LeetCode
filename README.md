@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Kartikey027/My-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Kartikey027/My-LeetCode/tree/master/0502-ipo) |
 | [0525-contiguous-array](https://github.com/Kartikey027/My-LeetCode/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Kartikey027/My-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Kartikey027/My-LeetCode/tree/master/0542-01-matrix) |
 | [0630-course-schedule-iii](https://github.com/Kartikey027/My-LeetCode/tree/master/0630-course-schedule-iii) |
 | [0733-flood-fill](https://github.com/Kartikey027/My-LeetCode/tree/master/0733-flood-fill) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Kartikey027/My-LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kartikey027/My-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Kartikey027/My-LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Kartikey027/My-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kartikey027/My-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Dynamic Programming
 |  |
