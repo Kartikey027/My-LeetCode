@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Kartikey027/My-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Kartikey027/My-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Kartikey027/My-LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/Kartikey027/My-LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Kartikey027/My-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Kartikey027/My-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kartikey027/My-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Kartikey027/My-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Kartikey027/My-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Kartikey027/My-LeetCode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Kartikey027/My-LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Kartikey027/My-LeetCode/tree/master/0338-counting-bits) |
 | [0403-frog-jump](https://github.com/Kartikey027/My-LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Kartikey027/My-LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Kartikey027/My-LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kartikey027/My-LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Kartikey027/My-LeetCode/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Kartikey027/My-LeetCode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Kartikey027/My-LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0542-01-matrix](https://github.com/Kartikey027/My-LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Kartikey027/My-LeetCode/tree/master/0733-flood-fill) |
@@ -405,4 +408,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Kartikey027/My-LeetCode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Kartikey027/My-LeetCode/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Kartikey027/My-LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Kartikey027/My-LeetCode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Kartikey027/My-LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
