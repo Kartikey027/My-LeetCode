@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Kartikey027/My-LeetCode/tree/master/0912-sort-an-array) |
 | [0931-minimum-falling-path-sum](https://github.com/Kartikey027/My-LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Kartikey027/My-LeetCode/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/Kartikey027/My-LeetCode/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kartikey027/My-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/Kartikey027/My-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Kartikey027/My-LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kartikey027/My-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Kartikey027/My-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Kartikey027/My-LeetCode/tree/master/0525-contiguous-array) |
+| [0997-find-the-town-judge](https://github.com/Kartikey027/My-LeetCode/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/Kartikey027/My-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Kartikey027/My-LeetCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Kartikey027/My-LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Kartikey027/My-LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kartikey027/My-LeetCode/tree/master/0210-course-schedule-ii) |
+| [0997-find-the-town-judge](https://github.com/Kartikey027/My-LeetCode/tree/master/0997-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
