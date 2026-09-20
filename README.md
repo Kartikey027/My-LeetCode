@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Kartikey027/My-LeetCode/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/Kartikey027/My-LeetCode/tree/master/0912-sort-an-array) |
 | [0931-minimum-falling-path-sum](https://github.com/Kartikey027/My-LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [0983-minimum-cost-for-tickets](https://github.com/Kartikey027/My-LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/Kartikey027/My-LeetCode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Kartikey027/My-LeetCode/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kartikey027/My-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Kartikey027/My-LeetCode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Kartikey027/My-LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Kartikey027/My-LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [0983-minimum-cost-for-tickets](https://github.com/Kartikey027/My-LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1143-longest-common-subsequence](https://github.com/Kartikey027/My-LeetCode/tree/master/1143-longest-common-subsequence) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Kartikey027/My-LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Greedy
