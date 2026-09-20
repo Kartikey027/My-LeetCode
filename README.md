@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Kartikey027/My-LeetCode/tree/master/0542-01-matrix) |
 | [0630-course-schedule-iii](https://github.com/Kartikey027/My-LeetCode/tree/master/0630-course-schedule-iii) |
 | [0733-flood-fill](https://github.com/Kartikey027/My-LeetCode/tree/master/0733-flood-fill) |
+| [0740-delete-and-earn](https://github.com/Kartikey027/My-LeetCode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Kartikey027/My-LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/Kartikey027/My-LeetCode/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/Kartikey027/My-LeetCode/tree/master/0912-sort-an-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Kartikey027/My-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Kartikey027/My-LeetCode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Kartikey027/My-LeetCode/tree/master/0542-01-matrix) |
+| [0740-delete-and-earn](https://github.com/Kartikey027/My-LeetCode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Kartikey027/My-LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Kartikey027/My-LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/Kartikey027/My-LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kartikey027/My-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Kartikey027/My-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Kartikey027/My-LeetCode/tree/master/0525-contiguous-array) |
+| [0740-delete-and-earn](https://github.com/Kartikey027/My-LeetCode/tree/master/0740-delete-and-earn) |
 | [0997-find-the-town-judge](https://github.com/Kartikey027/My-LeetCode/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/Kartikey027/My-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Kartikey027/My-LeetCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
