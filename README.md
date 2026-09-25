@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Kartikey027/My-LeetCode/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/Kartikey027/My-LeetCode/tree/master/0912-sort-an-array) |
 | [0931-minimum-falling-path-sum](https://github.com/Kartikey027/My-LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Kartikey027/My-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0983-minimum-cost-for-tickets](https://github.com/Kartikey027/My-LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/Kartikey027/My-LeetCode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Kartikey027/My-LeetCode/tree/master/0997-find-the-town-judge) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Kartikey027/My-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Kartikey027/My-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Kartikey027/My-LeetCode/tree/master/0525-contiguous-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Kartikey027/My-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Kartikey027/My-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Kartikey027/My-LeetCode/tree/master/0525-contiguous-array) |
 | [0740-delete-and-earn](https://github.com/Kartikey027/My-LeetCode/tree/master/0740-delete-and-earn) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Kartikey027/My-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/Kartikey027/My-LeetCode/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/Kartikey027/My-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Kartikey027/My-LeetCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
