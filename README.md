@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Kartikey027/My-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Kartikey027/My-LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kartikey027/My-LeetCode/tree/master/0213-house-robber-ii) |
+| [0264-ugly-number-ii](https://github.com/Kartikey027/My-LeetCode/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/Kartikey027/My-LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Kartikey027/My-LeetCode/tree/master/0338-counting-bits) |
 | [0403-frog-jump](https://github.com/Kartikey027/My-LeetCode/tree/master/0403-frog-jump) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Kartikey027/My-LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Kartikey027/My-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kartikey027/My-LeetCode/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/Kartikey027/My-LeetCode/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/Kartikey027/My-LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Kartikey027/My-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Kartikey027/My-LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kartikey027/My-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Kartikey027/My-LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/Kartikey027/My-LeetCode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Kartikey027/My-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kartikey027/My-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Kartikey027/My-LeetCode/tree/master/0502-ipo) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Kartikey027/My-LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Kartikey027/My-LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/Kartikey027/My-LeetCode/tree/master/0204-count-primes) |
+| [0264-ugly-number-ii](https://github.com/Kartikey027/My-LeetCode/tree/master/0264-ugly-number-ii) |
 | [0412-fizz-buzz](https://github.com/Kartikey027/My-LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Kartikey027/My-LeetCode/tree/master/0509-fibonacci-number) |
 ## String Matching
