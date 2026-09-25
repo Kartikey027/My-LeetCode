@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Kartikey027/My-LeetCode/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/Kartikey027/My-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Kartikey027/My-LeetCode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Kartikey027/My-LeetCode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Kartikey027/My-LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kartikey027/My-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Kartikey027/My-LeetCode/tree/master/0217-contains-duplicate) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Kartikey027/My-LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kartikey027/My-LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Kartikey027/My-LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0204-count-primes](https://github.com/Kartikey027/My-LeetCode/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/Kartikey027/My-LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Kartikey027/My-LeetCode/tree/master/0509-fibonacci-number) |
 ## String Matching
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Kartikey027/My-LeetCode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Kartikey027/My-LeetCode/tree/master/1291-sequential-digits) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Kartikey027/My-LeetCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Kartikey027/My-LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -434,4 +437,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Kartikey027/My-LeetCode/tree/master/1143-longest-common-subsequence) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kartikey027/My-LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kartikey027/My-LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kartikey027/My-LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kartikey027/My-LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
